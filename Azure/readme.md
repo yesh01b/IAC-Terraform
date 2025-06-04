@@ -5,8 +5,8 @@
 3. Provider "Microsoft Azure" and version ">=4.0.0", older version ">= 3.38.6"
 
 ## Commands
-Terraform Init
-Terraform validate
-Terraform Fmt
-Terraform plan -var-file="tf-dev-uks-01.tfvars" -out=rg
-Terraform apply rg
+1. Terraform Init
+2. Terraform validate
+3. Terraform Fmt
+4. Terraform plan -var-file="tf-dev-uks-01.tfvars" -out=rg
+5. Terraform apply rg
